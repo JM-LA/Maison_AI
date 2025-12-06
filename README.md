@@ -5,4 +5,4 @@ J'ai fait le choix de mettre ma domotique sur un réseau privé, déconnecté du
     Arduino Mega 2560 R3 + W5500 + Shield à vis + Relais x6 voies.
   - Modification d'un Poste TSF permettant de gérer des relais , de récupérer la couleur des jours pour les abonnements EDF Tempo et de les afficher,
     de récupérer la température et le taux d'humidité de la pièce, la température extérieure.
-    Arduino Mega 2560 R3 + W5500 + Shield à vis + Relais x4 voies + DHT11 + DS2812.
+    Arduino Mega 2560 R3 + W5500 + Shield à vis + Relais x4 voies + DHT11 + DS2812 + bande de 20 LEDs RGB.
